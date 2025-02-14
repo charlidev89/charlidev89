@@ -2,12 +2,18 @@
 <h2 align="center">Mi nombre es Carlos Arteaga ,soy un apasionado de las aplicaciones digitales, la tecnología y el desarrollo de software.</h3>
 <br>
 <br>
-- 🔭 Actualmente me encuentro trabajando en un Ecommerce que busca filtar la venta de zapatillas usadas y de colección , la problemática radica en que en las aplicaciones actuales no existe uno dedicado totalmente a la necesidad de esos clientes [Kicks 
-  Ecommerce](https://github.com/charlidev89/active-kicks-ecommerce)
+-  🔭 Actualmente me encuentro trabajando en un Ecommerce que busca filtar la venta de zapatillas usadas y de colección , la problemática radica en que en las aplicaciones actuales no existe uno dedicado totalmente a la necesidad de esos clientes [Kicks 
+   Ecommerce](https://github.com/charlidev89/active-kicks-ecommerce)
 
 - 🌱 Mi ultima tecnología que estoy aprendiendo es **React js**
 
-- 📄 Mi formación: [Actualmente me encuentro estudiando la carrera de Tecnicatura Superior en Analisis en Sistemas en el Instituto ORT, en mi último cuatrimestre. Me apasiona el desarrollo de software y disfruto resolviendo problemas complejos mientras aprendo nuevas tecnologías. considero que poseo un pensamiento analítico de resolución de problemas ,Trabajo en equipo ,adaptabilidad y Comunicación efectiva. Mi objetivo es convertirme en un desarrollador de software especializado en tecnologías Backend con fuerte conocimiento en microservicios y cloud. Busco crear aplicaciones eficientes, escalables y bien estructuradas. Por Qué Me Gusta el Desarrollo de Software El desarrollo de software me permite crear soluciones innovadoras que mejoran procesos y resuelven desafíos del mundo real. Disfruto el pensamiento lógico, la creatividad y el aprendizaje constante que implica esta disciplina. En mis tiempos libres me gusta jugar al ajedrez y hacer actividad física.](Soy estudiante de Analista en Sistemas en el Instituto ORT, actualmente en mi último cuatrimestre. Me apasiona el desarrollo de software y disfruto resolviendo problemas complejos mientras aprendo nuevas tecnologías. considero que poseo un pensamiento analítico de resolución de problemas ,Trabajo en equipo ,adaptabilidad y Comunicación efectiva. Mi objetivo es convertirme en un desarrollador de software especializado en tecnologías Backend con fuerte conocimiento en microservicios y cloud. Busco crear aplicaciones eficientes, escalables y bien estructuradas. Por Qué Me Gusta el Desarrollo de Software El desarrollo de software me permite crear soluciones innovadoras que mejoran procesos y resuelven desafíos del mundo real. Disfruto el pensamiento lógico, la creatividad y el aprendizaje constante que implica esta disciplina. En mis tiempos libres me gusta jugar al ajedrez y hacer actividad física.)
+- 📄Soy estudiante de la Tecnicatura Superior en Análisis de Sistemas en el Instituto ORT, actualmente en mi último cuatrimestre. Me apasiona el desarrollo de software y disfruto enfrentar desafíos complejos mientras aprendo y aplico nuevas tecnologías. Considero que poseo un fuerte pensamiento analítico, facilidad para la resolución de problemas, capacidad de trabajo en equipo, adaptabilidad y una comunicación efectiva.
+
+Mi objetivo es convertirme en un desarrollador de software especializado en tecnologías backend, con un sólido conocimiento en microservicios y cloud computing. Aspiro a diseñar y desarrollar aplicaciones eficientes, escalables y bien estructuradas que aporten valor a los usuarios y optimicen procesos.
+
+El desarrollo de software me permite crear soluciones innovadoras que mejoran procesos y resuelven problemas del mundo real. Disfruto la combinación de pensamiento lógico, creatividad y aprendizaje continuo que requiere esta disciplina.
+
+En mi tiempo libre, me gusta jugar al ajedrez y realizar actividad física, ya que considero que ambos contribuyen al desarrollo del pensamiento estratégico y al bienestar general.
 
 <h3 align="left">Mi Linkedin:</h3>
 <p align="left">
