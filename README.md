@@ -3,7 +3,7 @@
 <br>
 <br>
 -  🔭 Actualmente me encuentro trabajando en un Ecommerce que busca filtar la venta de zapatillas usadas y de colección , la problemática radica en que en las aplicaciones actuales no existe uno dedicado totalmente a la necesidad de esos clientes [Kicks 
-   Ecommerce](https://github.com/charlidev89/active-kicks-ecommerce)
+   Ecommerce]     (https://charlidev89.github.io/Active-kicks-ecommerce/)
 
 - 🌱 Mi ultima tecnología que estoy aprendiendo es **React js**
 
