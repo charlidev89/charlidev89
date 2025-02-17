@@ -3,15 +3,15 @@
 <br>
 <br>
 -  🔭 Actualmente me encuentro trabajando en un Ecommerce que busca filtar la venta de zapatillas usadas y de colección , la problemática radica en que en las aplicaciones actuales no existe uno dedicado totalmente a la necesidad de esos clientes [Kicks 
-   Ecommerce]     (https://charlidev89.github.io/Active-kicks-ecommerce/)
+   Ecommerce]  busca romper esa barrera   (https://charlidev89.github.io/Active-kicks-ecommerce/)
 
 - 🌱 Mi ultima tecnología que estoy aprendiendo es **React js**
 
-- 📄Soy estudiante de la Tecnicatura Superior en Análisis de Sistemas en el Instituto ORT, actualmente en mi último cuatrimestre. Me apasiona el desarrollo de software y disfruto enfrentar desafíos complejos mientras aprendo y aplico nuevas tecnologías. Considero que poseo un fuerte pensamiento analítico, facilidad para la resolución de problemas, capacidad de trabajo en equipo, adaptabilidad y una comunicación efectiva.
+- 📄Soy estudiante de la Tecnicatura Superior en Análisis de Sistemas en el Instituto ORT, actualmente en mi último cuatrimestre, disfruto enfrentar desafíos complejos mientras aprendo y aplico nuevas tecnologías. Considero que poseo un fuerte pensamiento analítico, facilidad para la resolución de problemas, capacidad de trabajo en equipo, adaptabilidad y una comunicación efectiva.
 
 Mi objetivo es convertirme en un desarrollador de software especializado en tecnologías backend, con un sólido conocimiento en microservicios y cloud computing. Aspiro a diseñar y desarrollar aplicaciones eficientes, escalables y bien estructuradas que aporten valor a los usuarios y optimicen procesos.
 
-El desarrollo de software me permite crear soluciones innovadoras que mejoran procesos y resuelven problemas del mundo real. Disfruto la combinación de pensamiento lógico, creatividad y aprendizaje continuo que requiere esta disciplina.
+El desarrollo de software permite crear soluciones innovadoras que mejoran procesos y resuelven problemas del mundo real. Disfruto la combinación de pensamiento lógico, creatividad y aprendizaje continuo que requiere esta disciplina.
 
 En mi tiempo libre, me gusta jugar al ajedrez y realizar actividad física, ya que considero que ambos contribuyen al desarrollo del pensamiento estratégico y al bienestar general.
 <br>
