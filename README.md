@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, Bienvenido a mi perfil</h1>
+![image](https://github.com/user-attachments/assets/bb18e336-77fe-44ef-a923-afc01b178b9f)<h1 align="center">Hola 👋, Bienvenido a mi perfil</h1>
 <h2 align="center">Mi nombre es Carlos Arteaga ,soy un apasionado de las aplicaciones digitales, la tecnología y el desarrollo de software.</h3>
 <br>
 <br>
--  🔭 Actualmente me encuentro trabajando en un Ecommerce que busca filtar la venta de zapatillas usadas y de colección , la problemática radica en que en las aplicaciones actuales no existe uno dedicado totalmente a la necesidad de esos clientes [Kicks 
-   Ecommerce]  busca romper esa barrera   (https://charlidev89.github.io/Active-kicks-ecommerce/)
+-  🔭 Actualmente me encuentro trabajando en una Plataforma  que busca filtar la venta de zapatillas usadas y de colección donde podramos realizar Sorteos, subastas entre otras funcionalidades , la problemática radica en que en las aplicaciones actuales no existe uno dedicado totalmente a la necesidad de esos clientes
+ [Kicks Ecommerce]  busca romper esa barrera   (https://charlidev89.github.io/Active-kicks-ecommerce/)
 
 - 🌱 Mi ultima tecnología que estoy aprendiendo es **React js**
 
