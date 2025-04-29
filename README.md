@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bb18e336-77fe-44ef-a923-afc01b178b9f)<h1 align="center">Hola 👋, Bienvenido a mi perfil</h1>
+<h1 align="center">Hola 👋, Bienvenido a mi perfil</h1>
 <h2 align="center">Mi nombre es Carlos Arteaga ,soy un apasionado de las aplicaciones digitales, la tecnología y el desarrollo de software.</h3>
 <br>
 <br>
