@@ -2,8 +2,7 @@
 <h2 align="center">Mi nombre es Carlos Arteaga ,soy un apasionado de las aplicaciones digitales, la tecnología y el desarrollo de software.</h3>
 <br>
 <br>
--  🔭 Actualmente me encuentro trabajando en una Plataforma  que busca filtar la venta de zapatillas usadas y de colección donde podramos realizar Sorteos, subastas entre otras funcionalidades ,s
-   busca romper esa barrera   (https://charlidev89.github.io/Active-kicks-ecommerce/)
+-  🔭 Actualmente me encuentro trabajando en una Plataforma  que busca filtar la venta de zapatillas usadas y de colección donde podramos realizar Sorteos, subastas entre otras funcionalidades :  (https://charlidev89.github.io/Active-kicks-ecommerce/)
    Tambien realicé proyectos en el backend con springboot :  (https://github.com/charlidev89/SpringBoot-APIREST-Gestor-Empleados)
    o algo de Front con Vuejs :  (https://charlidev89.github.io/RegistroPagos/)
 
