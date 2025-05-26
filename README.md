@@ -14,8 +14,6 @@
 
 Mi objetivo es convertirme en un desarrollador de software especializado en tecnologías backend, con un sólido conocimiento en microservicios y cloud computing. Aspiro a diseñar y desarrollar aplicaciones eficientes, escalables y bien estructuradas que aporten valor a los usuarios y optimicen procesos.
 
-El desarrollo de software permite crear soluciones innovadoras que mejoran procesos y resuelven problemas del mundo real. Disfruto la combinación de pensamiento lógico, creatividad y aprendizaje continuo que requiere esta disciplina.
-
 En mi tiempo libre, me gusta jugar al ajedrez y realizar actividad física, ya que considero que ambos contribuyen al desarrollo del pensamiento estratégico y al bienestar general.
 <br>
 <h3 align="left">Skills:</h3>
