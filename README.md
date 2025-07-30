@@ -4,13 +4,11 @@
 <br>
 -  🔭 Actualmente me encuentro trabajando en una Plataforma  que busca filtar la venta de zapatillas usadas y de colección donde podramos realizar Sorteos, subastas entre otras funcionalidades :  (https://charlidev89.github.io/Active-kicks-ecommerce/)
    Tambien realicé proyectos en el backend con springboot :  (https://github.com/charlidev89/SpringBoot-APIREST-Gestor-Empleados)
-   o algo de Front con Vuejs :  (https://charlidev89.github.io/RegistroPagos/)
+   o algo de Front con Vuejs :  (https://charlidev89.github.io/RegistroPagos/) , entre otros:
 
 
 
-- 🌱 Mi ultima tecnología que estoy aprendiendo es **React js**
-
-- 📄Soy estudiante de la Tecnicatura Superior en Análisis de Sistemas en el Instituto ORT, actualmente en mi último cuatrimestre, disfruto enfrentar desafíos complejos mientras aprendo y aplico nuevas tecnologías. Considero que poseo un fuerte pensamiento analítico, facilidad para la resolución de problemas, capacidad de trabajo en equipo, adaptabilidad y una comunicación efectiva.
+- Soy estudiante de la Tecnicatura Superior en Análisis de Sistemas en el Instituto ORT, actualmente en mi último cuatrimestre, disfruto enfrentar desafíos complejos mientras aprendo y aplico nuevas tecnologías. Considero que poseo un fuerte pensamiento analítico, facilidad para la resolución de problemas, capacidad de trabajo en equipo, adaptabilidad y una comunicación efectiva.
 
 Mi objetivo es convertirme en un desarrollador de software especializado en tecnologías backend, con un sólido conocimiento en microservicios y cloud computing. Aspiro a diseñar y desarrollar aplicaciones eficientes, escalables y bien estructuradas que aporten valor a los usuarios y optimicen procesos.
 
